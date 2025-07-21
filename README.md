@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Mateus Rodrigues
 
-<!--
-**SSratedcoder/SSratedcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End em formação, participante do bootcamp **Santander 2025 - Front-End** na [DIO](https://dio.me), com foco em desenvolvimento web moderno utilizando HTML, CSS, JavaScript e React.
 
-Here are some ideas to get you started:
+Estou em constante evolução, aprendendo as boas práticas de programação, versionamento de código com Git/GitHub e criação de interfaces responsivas e acessíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Objetivos
+- Construir projetos sólidos que demonstrem minha evolução técnica.
+- Contribuir com a comunidade através de projetos open source.
+- Buscar minha primeira oportunidade profissional como desenvolvedor Front-End.
+
+## 🚀 Habilidades em desenvolvimento
+- HTML5, CSS3, JavaScript
+- Git e GitHub
+- Figma
+- Terminal básico e linha de comando
+
+## 📚 Em aprendizado
+- React.js
+- Consumo de APIs
+- Testes automatizados
+
+## 📫 Contato
+- GitHub: [SSratedcoder](https://github.com/SSratedcoder)
+- Email: **mtgrqwss@gmail.com**
