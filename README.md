@@ -1,25 +1,36 @@
-# 👋 Olá! Eu sou o Mateus Rodrigues
+# 👋 Hey, I'm Mateus!
 
-Desenvolvedor Front-End em formação, participante do bootcamp **Santander 2025 - Front-End** na [DIO](https://dio.me), com foco em desenvolvimento web moderno utilizando HTML, CSS, JavaScript e React.
+I'm **SSratedcoder**, a developer from Brazil.
 
-Estou em constante evolução, aprendendo as boas práticas de programação, versionamento de código com Git/GitHub e criação de interfaces responsivas e acessíveis.
+I like making stuff with code, breaking stuff, figuring out why it broke, and then making something else.
 
-## 💼 Objetivos
-- Construir projetos sólidos que demonstrem minha evolução técnica.
-- Contribuir com a comunidade através de projetos open source.
-- Buscar minha primeira oportunidade profissional como desenvolvedor Front-End.
+Currently studying **IT** and messing around with:
 
-## 🚀 Habilidades em desenvolvimento
-- HTML5, CSS3, JavaScript
-- Git e GitHub
-- Figma
-- Terminal básico e linha de comando
+- 💻 Web development
+- 🐍 Python
+- ⚛️ React
+- 🟨 JavaScript
+- 🟢 Node.js
+- 🐙 Git & GitHub
 
-## 📚 Em aprendizado
-- React.js
-- Consumo de APIs
-- Testes automatizados
+## 🔨 What I'm doing
 
-## 📫 Contato
-- GitHub: [SSratedcoder](https://github.com/SSratedcoder)
-- Email: **mtgrqwss@gmail.com**
+- Building random projects
+- Learning new technologies
+- Trying to actually finish the things I start
+- Turning dumb ideas into functional software
+
+## 📂 Some of my stuff
+
+Most of the repositories here are projects, experiments, studies and things I built because I thought:
+
+> "I wonder if I can make this."
+
+Sometimes I can.
+
+Sometimes I absolutely cannot.
+
+## 📫 Contact
+
+**GitHub:** [@SSratedcoder](https://github.com/SSratedcoder)  
+**Email:** mtgrqwss@gmail.com
